@@ -1,0 +1,8 @@
+In Excel 2016, the number of rows and columns is determined by the worksheet's grid, which has the following dimensions:
+
+Rows: 1,048,576
+Columns: 16,384
+
+Explanation:
+Rows are numbered from 1 to 1,048,576.
+Columns are labeled from A to XFD, totaling 16,384 columns.

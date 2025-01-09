@@ -1,0 +1,8 @@
+=(F6/50)*100
+
+0"%"
+"Outstanding" >=90, "Very Good" >=70 , "Average" >= 60 , "Poor" >=33 , "Very bad"
+
+if(J6 >= 90 , "Outstanding" , if(J6 >= 70 , "Very Good" , if(J6 >= 60 , "Average" , if(J6 >= 33 , "Poor" , "Very Bad"))))
+
+=IF(J6>=90,"Outstanding",IF(J6>=70,"Very Good",IF(J6>=60,"Average",IF(J6>=33,"Poor","Very Bad"))))

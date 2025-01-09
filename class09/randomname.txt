@@ -1,0 +1,11 @@
+=CHOOSE(RANDBETWEEN(1,4),"John","Alice","Bob","Emma")
+
+=CHOOSE(4,"John","Alice","Bob","Emma")
+
+=RANDBETWEEN(1,4)
+
+=CHOOSE(RANDBETWEEN(1,7),"AA","BB","CC","DD","EE","FF","GG")
+
+=CHOOSE(4,"AA","BB","CC","DD","EE","FF","GG")
+
+what is function: name()
