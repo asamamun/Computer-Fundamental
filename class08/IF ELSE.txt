@@ -1,0 +1,6 @@
+IF(CONDITION, RESULT IF TRUE, RESULT IF FALSE)	
+
+if(c3>=18, "ADULT","TEEN")
+
+IF(C3>=270, "A+",if(c3>=210, "A", if(c3>=180, "B", if( c3 >= 99 , "C","F"))))			
+				

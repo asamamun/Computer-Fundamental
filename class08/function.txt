@@ -1,0 +1,4 @@
+functionname()
+functionname(value)
+functionname(value, value)
+if(condition, value if true, value if false)
